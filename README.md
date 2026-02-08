@@ -35,6 +35,6 @@ Top contributing features:
 - XGBoost
 - Matplotlib
 
-## 🚀 How to Run
+## How to Run
 ```bash
 pip install -r requirements.txt
