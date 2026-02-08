@@ -10,8 +10,11 @@ It was built as part of a Kaggle Playground Series competition and evaluated usi
 
 ## Dataset
 The dataset used in this project is from the Kaggle Playground Series competition:
+
 **Predicting Heart Disease (Season 6, Episode 2)**
+
 Dataset link:  https://www.kaggle.com/competitions/playground-series-s6e2/data
+
 Note: The dataset files (`train.csv`, `test.csv`) are not included in this repository due to Kaggle competition data usage restrictions.
 
 ## Models Implemented
